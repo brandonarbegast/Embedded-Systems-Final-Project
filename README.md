@@ -1,2 +1,5 @@
 # Embedded-Systems-Final-Project
 This Project is a recreation of Gorillas, a 1990 turn-based artillery game published by Microsoft. The purpose was to test and cement the skills and concepts taught in embedded systems, while being a team collaboration between me and one other classmate.
+
+--My Role
+The circumstances surrounding this project were rather limiting. We had to complete the game as a team, but only had access to one microcontroller and our schedules rarely lined up. A compromise had to be made, so my partner kept the microcontroller while I focused on the design side. I was heavily involved in shaping the game logic. We would talk through how each function should work, and he would handle the hardware implementation. This split allowed us to stay productive despite the hardware constraint. I also played a major part in debugging, often spotting logic errors and overlooked issues that improved stability and saved us time. In addition, I created the majority of the design document, including flowchart diagrams and system breakdowns, which provided structure for the entire project.
